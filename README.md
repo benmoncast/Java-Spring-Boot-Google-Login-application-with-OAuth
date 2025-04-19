@@ -128,11 +128,11 @@ Logout Confirmation
 
 ### Login Page
 
-![Login Page](screenshot/login.png)
+![Login Page](blob/main/src/main/screenshot/login.png)
 
 ### User Home Page
 
-![User Home Page](screenshot/glogin.png)
+![User Home Page](/main/src/main/screenshot/login.png)
 
 # Security
 OAuth2 authentication handled by Spring Security
