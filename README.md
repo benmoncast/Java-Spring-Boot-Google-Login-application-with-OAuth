@@ -126,21 +126,26 @@ Displays user info from Google:
 Logout Confirmation
 ## Screenshots
 
-### Login Page
-
+## Login Page
 ![Login Page](/screenshot/login.png)
 
-### User Home Page
+## User Home Page
+![Login with Google](/screenshot/glogin.png)
 
-![User Home Page](/screenshot/glogin.png)
+## User Home Page
+![Comfirm Login](/screenshot/glogin2.png)
+
+## User Home Page
+![Dashboard](/screenshot/dashboard.png)
 
 # Security
 OAuth2 authentication handled by Spring Security
 Session management with automatic invalidation on logout
 No credentials stored in plaintext
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+This project is licensed under the [MIT License](LICENSE) © 2025 Benedict M. Castro.
 
 #Author
 Benedict Castro
